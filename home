@@ -93,7 +93,7 @@ git push --set-upstream origin $(git rev-parse --abbrev-ref HEAD)<!DOCTYPE html>
                                 <div class="dropdown-menu m-0">
                                     <a href="blog.html" class="dropdown-item">produk</a>
                                     <a href="team.html" class="dropdown-item">team</a>
-                                    <a href="testimonial.html" class="dropdown-item">testimoni</a>
+                                    <a href="testimonial.html" class="dropdown-item">berlangganan sekarang</a>
                             </div>
                             <a href="contact.html" class="nav-item nav-link">pengaduan</a>
                         </div>
