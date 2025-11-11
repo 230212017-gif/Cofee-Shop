@@ -77,7 +77,6 @@ git push --set-upstream origin $(git rev-parse --abbrev-ref HEAD)<!DOCTYPE html>
                         <h1 class="text-primary m-0"><img src="d:\Ramadi Alfitra Per Sem 5\Web Framework\project 1\logo.jpeg" alt="Cofee Shop" class="img-fluid" style="height:60px;">
                         <!-- save the provided logo image as img/logo-coffee.png -->
                     </a> </i>Cofee Shop</h1>
-                        <!-- <img src="img/logo.png" alt="Logo"> -->
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                         <span class="fa fa-bars"></span>
@@ -85,7 +84,7 @@ git push --set-upstream origin $(git rev-parse --abbrev-ref HEAD)<!DOCTYPE html>
                     <div class="collapse navbar-collapse" id="navbarCollapse">
                         <div class="navbar-nav ms-auto py-0">
                             <a href="index.html" class="nav-item nav-link active">Home</a>
-                            <a href="about.html" class="nav-item nav-link">staff</a>
+                            <a href="staff.html" class="nav-item nav-link">staff</a>
                             <a href="service.html" class="nav-item nav-link">pesan</a>
                             <a href="project.html" class="nav-item nav-link">rekomendasi</a>
                             <div class="nav-item dropdown">
